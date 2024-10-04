@@ -1,0 +1,13 @@
+{
+  "verbose": true,
+  "watch": [
+    "src"
+  ],
+  "ext": ".ts,.js",
+  "ignore": [
+    ".git",
+    "node_modules/**/node_modules"
+  ],
+  "exec": "ts-node ./src/main.ts",
+  "delay": 5000
+}
