@@ -28,3 +28,12 @@ seu navegador preferido.
 127.0.0.1:9090
 http://localhost:9090
 ```
+
+## Extensões úteis VSCODE
+
+| Plugins |
+| ------- |
+| SQLite |
+| SQLite Viewer |
+| SQLTools SQLite |
+| SQLite3 Editor |
